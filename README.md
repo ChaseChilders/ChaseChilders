@@ -2,7 +2,7 @@
 
 - I am a Software Engineer from Swan Point, Maryland. I have a passion for building beautiful websites with clean, elegant, and efficient code.
 
-- I’m nearing the end of my 16 weeks at DigitalCrafts Software Engineering Program
+- I’m recently finished my 16 weeks at DigitalCrafts Software Engineering Program
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/chasechildersdev/) or chasechilders12@gmail.com
 
 - Portfolio: https://chasechildersdev.netlify.app
